@@ -29,7 +29,7 @@ It consist of three states.
 - Error State. 
 - Weather Loaded. 
 
-## Thirt part API
+## Third party Free API
 <li><a href="https://api.open-meteo.com/v1/forecast?latitude=52.507929&longitude=13.400848&current_weather=true">Current Weather API</a></li>
 
 
@@ -42,5 +42,6 @@ It consist of three states.
 
 
 ## Testing Strategies
-Unit testing is done using Junit.
-<li><a href="https://github.com/junit-team/junit4">Junit</a></li>
+Unit testing is done using:
+- Junit 
+- Mockito
